@@ -6,7 +6,10 @@ Install the Arduino IDE
 
 Step two:
 push button Connections:
+
 1-The left side of the push button is connected to pin 5V on the Arduino board.
+
+
 2-The right side of the push button is connected to pin 6 on the Arduino board and to the resistor to connect it with GND.
 
 
