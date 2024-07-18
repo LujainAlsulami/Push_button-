@@ -15,7 +15,9 @@ push button Connections:
 
 
 1-The middle potentiometer is connected to pin A0 on the Arduino board.
+
 2-The left side of the potentiometer is connected to pin 5V on the Arduino board.
+
 3-The right side of the potentiometer is connected to the GND on the Arduino board.
 
 
