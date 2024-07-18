@@ -25,6 +25,7 @@ LED Connections:
 1-The shorter leg of the LED is connected to the resistor and it is connected to the GND on the Arduino board.
 
 2-The other side of the resistor is connected to the GND on the Arduino board.
+
 3-The longer leg of the LED is connected to pin 7 on the Arduino board.
 
 Step four:
